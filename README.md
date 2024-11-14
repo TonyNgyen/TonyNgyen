@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GymTracker](https://gymtracker-phi.vercel.app)
 
-- 👨‍💻 All of my projects are available at [Personal Website](https://personal-website-zeta-topaz.vercel.app)
+- 👨‍💻 All of my projects are available at [Personal Website](https://personal-one-xi.vercel.app/)
 
 - 📫 How to reach me **tonynguyeenn@gmail.com**
 
