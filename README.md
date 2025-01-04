@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A passionate full-stack developer from the USA</h3>
 
-- 🔭 I’m currently working on [GymTracker](https://gymtracker-phi.vercel.app)
+- 🔭 I’m currently working on [Toned](https://tonedapp.vercel.app)
 
 - 👨‍💻 All of my projects are available at [Personal Website](https://personal-one-xi.vercel.app/)
 
