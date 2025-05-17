@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Toned](https://tonedapp.vercel.app)
 
-- 👨‍💻 All of my projects are available at [Personal Website](https://personal-one-xi.vercel.app/)
+- 👨‍💻 Learn more about me at: [Personal Website](https://tonynguyen-dev.vercel.app)
 
 - 📫 How to reach me **tonynguyeenn@gmail.com**
 
-- 📄 Know about my experience [here](https://drive.google.com/file/d/12S2jFrwbEK7ZGYlL0AhkW3ridTtLktUr/view?usp=sharing)
+- 📄 Know about my experience: [Resume](https://drive.google.com/file/d/12S2jFrwbEK7ZGYlL0AhkW3ridTtLktUr/view?usp=sharing)
 
 - ⚡ Fun fact **I love exploring new restaurants.**
 
