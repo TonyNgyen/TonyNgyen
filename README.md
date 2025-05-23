@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tony</h1>
+<h1 align="center">Hey, I'm Tony</h1>
 <h3 align="center">A passionate full-stack developer from the USA</h3>
 
 - 🔭 I’m currently working on [Toned](https://tonedapp.vercel.app)
