@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Tony</h1>
 <h3 align="center">A passionate full-stack developer from the USA</h3>
 
-- 🔭 I’m currently working on [Toned](https://tonedapp.vercel.app)
+- 🔭 I’m currently working on [meap](https://meapprep.vercel.app/)
 
 - 👨‍💻 Learn more about me at: [Personal Website](https://tonynguyen-dev.vercel.app)
 
