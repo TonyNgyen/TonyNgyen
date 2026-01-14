@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tonynguyeenn@gmail.com**
 
-- 📄 Know about my experience: [Resume](https://drive.google.com/file/d/1wTiFD6Wsgc5gZX-RcM-SaBBP7udjnMyL/view?usp=sharing)
+- 📄 Know about my experience: [Resume](https://tonynguyen-dev.vercel.app/resume.pdf)
 
 - ⚡ Fun fact **I love exploring new restaurants.**
 
